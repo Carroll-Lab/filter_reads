@@ -8,3 +8,4 @@ raw fastq file in /seq_raw
 genome reference (fasta) in /genome
 
 Check adapter - could be TGGAATTCT or AGATCGGAAGAGCAC
+
